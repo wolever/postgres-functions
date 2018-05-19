@@ -1,0 +1,40 @@
+ to_integer 
+------------
+          1
+(1 row)
+
+ to_integer 
+------------
+           
+(1 row)
+
+ to_integer 
+------------
+          0
+(1 row)
+
+ to_integer 
+------------
+           
+(1 row)
+
+ to_integer 
+------------
+           
+(1 row)
+
+ ?column? 
+----------
+ t
+(1 row)
+
+ to_integer 
+------------
+         42
+(1 row)
+
+       date_round       
+------------------------
+ 1990-01-01 10:15:00-05
+(1 row)
+
